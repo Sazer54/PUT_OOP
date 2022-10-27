@@ -1,3 +1,3 @@
 # oop-put-course
-Repository dedicated for project related to OOP classes at PUT.
+Repository dedicated for projects related to OOP classes at PUT.
 Index: 151885
