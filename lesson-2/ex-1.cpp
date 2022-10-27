@@ -1,3 +1,5 @@
+// :)
+
 #include <iostream>
 #define DEAFULT_COLOUR "blue"
 #define DEFAULT_CLICKS_LIMIT 10000
