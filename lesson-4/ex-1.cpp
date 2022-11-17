@@ -39,8 +39,8 @@ public:
     int mouthsNumber() {
         return this->numberOfMouths;
     }
-    Animal* mutated(int mutationRate) {
-        return new Dog(this->numberOfEyes * mutationRate);
+    Animal* mutated(int mutationLevel) {
+        return new Dog(mutationLevel);
     }
 };
 
