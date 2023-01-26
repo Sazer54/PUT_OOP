@@ -16,6 +16,6 @@ public class NumbersPair {
     }
 
     public double avg(){
-        return (float) this.a + (float)this.b/2.0;
+        return ((float) this.a + (float)this.b)/2.0;
     }
 }
